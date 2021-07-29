@@ -4,7 +4,7 @@ public class PhoneNumberFormatter {
 
     public static void main(String[] args) {
         PhoneNumberFormatter pnf = new PhoneNumberFormatter();
-        String phoneNo = "555372654";
+        String phoneNo = "00-44    48  5555  8361";
         System.out.println("Result: " + pnf.solution(phoneNo));
     }
 
